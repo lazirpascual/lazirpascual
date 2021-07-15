@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there, My name is Lazir Pascual
+
+[![Website](https://img.shields.io/website?label=lazirpascual.netlify.app&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://lazirpascual.netlify.app/)
 
 <!--
 **lazirpascual/lazirpascual** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
