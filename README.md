@@ -3,7 +3,7 @@
 [![Website](https://img.shields.io/website?label=DEV-PORTFOLIO&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://lazirpascual.netlify.app/)
 
 ## I'm Currently a 2nd year co-op student studying Software Engineering 
-- 🔭 Interests in web development; front end and back end.
+- 🔭 Interests in Web Development; Front End and Back End.
 - 🌱 Currently learning from [The Odin Project](https://www.theodinproject.com/) and [Full Stack Open](https://fullstackopen.com/en/)
 
 ### Connect with me:
@@ -33,6 +33,12 @@
 
 ---
 
+<details>
+  <summary>:zap: GitHub Stats</summary>
+
+  <img align="left" alt="lazirpascual's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=lazirpascual&show_icons=true&hide_border=true" />
+
+</details>
 
 
 [website]: https://lazirpascual.netlify.app/
