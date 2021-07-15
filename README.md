@@ -1,6 +1,4 @@
-### Hi there, My name is Lazir Pascual
-
-[![Website](https://img.shields.io/website?label=DEV-PORTFOLIO&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://lazirpascual.netlify.app/)
+### Hi there, My name is Lazir Pascual [![Website](https://img.shields.io/website?label=DEV-PORTFOLIO&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://lazirpascual.netlify.app/)
 
 ## I'm Currently a 2nd year co-op student studying Software Engineering 
 - 🔭 Interests in Web Development; Front End and Back End.
