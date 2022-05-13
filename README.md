@@ -4,8 +4,6 @@
 
 ## I'm Currently a 2nd year co-op student studying Software Engineering
 
-- 🌱 Learning MERN stack from [The Odin Project](https://www.theodinproject.com/) and [Full Stack Open](https://fullstackopen.com/en/) to enhance my web development skills.
-
 ### Connect with me:
 
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
