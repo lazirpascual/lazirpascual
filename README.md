@@ -1,4 +1,4 @@
-<h1>Hi there, I'm Lazir <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h2>
+<h1>Hi there, I'm Lazir 👋 </h2>
 
 [![Website](https://img.shields.io/website?label=DEV-PORTFOLIO&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://lazirpascual.netlify.app/)
 
