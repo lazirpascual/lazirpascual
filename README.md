@@ -7,9 +7,5 @@
 <br />
 
 ---
-:zap: GitHub Stats
-  
-  [![Lazirs's GitHub stats](https://github-readme-stats.vercel.app/api?username=lazirpascual)](https://github.com/lazirpascual/github-readme-stats)
-
 
 [linkedin]: https://www.linkedin.com/in/lazir-pascual-00482a217/
